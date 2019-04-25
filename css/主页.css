@@ -1,0 +1,17 @@
+.projects .row .right-face .project-wrapper .project-content img {
+    width: 640px;
+    margin-left: 87px;
+    margin-bottom: 87px;
+    height: auto;
+    float: left;
+    transition: all 1s ease 0s;
+}
+
+.projects .row .right-face .project-wrapper .project-content img:hover {
+    transform: scale(1.2);
+}
+
+.projects .row .project-8 .project-wrapper .project-content img {
+    width: 600px;
+    height: 444px;
+}
